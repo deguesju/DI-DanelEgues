@@ -1,0 +1,19 @@
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa_MarkupCompile.cache
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.g.resources
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.AssemblyInfoInputs.cache
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.AssemblyInfo.cs
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.csproj.CoreCompileInputs.cache
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\bin\Debug\net8.0-windows\Bostgarren Ariketa.exe
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\bin\Debug\net8.0-windows\Bostgarren Ariketa.deps.json
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\bin\Debug\net8.0-windows\Bostgarren Ariketa.runtimeconfig.json
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\bin\Debug\net8.0-windows\Bostgarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\bin\Debug\net8.0-windows\Bostgarren Ariketa.pdb
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\refint\Bostgarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.pdb
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\Bostgarren Ariketa.genruntimeconfig.cache
+C:\Users\ik012982i18\source\repos\Bostgarren Ariketa\Bostgarren Ariketa\obj\Debug\net8.0-windows\ref\Bostgarren Ariketa.dll

@@ -1,0 +1,21 @@
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa_MarkupCompile.cache
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.g.resources
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.AssemblyInfoInputs.cache
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.AssemblyInfo.cs
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.csproj.CoreCompileInputs.cache
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\bin\Debug\net8.0-windows\Hirugarren Ariketa.exe
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\bin\Debug\net8.0-windows\Hirugarren Ariketa.deps.json
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\bin\Debug\net8.0-windows\Hirugarren Ariketa.runtimeconfig.json
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\bin\Debug\net8.0-windows\Hirugarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\bin\Debug\net8.0-windows\Hirugarren Ariketa.pdb
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\ResultadoWindow.baml
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\ResultadoWindow.g.cs
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\refint\Hirugarren Ariketa.dll
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.pdb
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\Hirugarren Ariketa.genruntimeconfig.cache
+C:\Users\ik012982i18\source\repos\Hirugarren Ariketa\Hirugarren Ariketa\obj\Debug\net8.0-windows\ref\Hirugarren Ariketa.dll
