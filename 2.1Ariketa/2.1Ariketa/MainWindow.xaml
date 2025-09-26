@@ -1,0 +1,41 @@
+﻿<Window x:Class="_2._1Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Funciones de Fecha" Height="300" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Ahora" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtAhora" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Hoy" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtHoy" Grid.Row="1" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Hora de Hoy" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtHoraHoy" Grid.Row="2" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Suma de Fechas" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtSumaFechas" Grid.Row="3" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Content="Diferencia de Fechas" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtDiferenciaFechas" Grid.Row="4" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <StackPanel Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button Content="Ejecutar" Width="100" Margin="5" Click="Ejecutar_Click"/>
+            <Button Content="Limpiar" Width="100" Margin="5" Click="Limpiar_Click"/>
+            <Button Content="Salir" Width="100" Margin="5" Click="Salir_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
