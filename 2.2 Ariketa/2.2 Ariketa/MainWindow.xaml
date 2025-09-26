@@ -1,0 +1,26 @@
+﻿<Window x:Class="_2._2_Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2._2_Ariketa"
+        mc:Ignorable="d"
+        Title="Lista de Amigos" Height="450" Width="500">
+    <Grid Margin="10">
+        <GroupBox Header="Mis Amigos" HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Height="220" Margin="10,10,0,0">
+            <ListBox x:Name="lstAmigos" Margin="10" SelectionMode="Extended" />
+        </GroupBox>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Top" Width="120" Margin="0,30,20,0">
+            <Button x:Name="btnAñadir" Content="Añadir" Height="35" Margin="0,0,0,10"/>
+            <Button x:Name="btnEliminar" Content="Eliminar" Height="35" Margin="0,0,0,10"/>
+            <Button x:Name="btnBorrarLista" Content="Borrar Lista" Height="35"/>
+        </StackPanel>
+        <GroupBox Header="Amigo Seleccionado" HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Height="70" Margin="10,240,0,0">
+            <TextBox x:Name="txtSeleccionado" Margin="10" IsReadOnly="True"/>
+        </GroupBox>
+        <GroupBox Header="Amigo Nuevo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Height="70" Margin="10,320,0,0">
+            <TextBox x:Name="txtNuevo" Margin="10"/>
+        </GroupBox>
+        <Button x:Name="btnSalir" Content="Salir" Width="120" Height="35" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,20"/>
+    </Grid>
+</Window>
